@@ -1,0 +1,2 @@
+# MSIInstaller
+适用于部分无法双击运行msi安装程序的Windows电脑
