@@ -1,8 +1,6 @@
 # MSIInstaller
 
-适用于部分无法直接双击运行 `.msi` 安装包的 Windows 电脑，通过封装 Windows 官方 `msiexec` 实现正常安装流程。
-
-A lightweight Windows tool to install MSI packages when MSI double-click execution is broken or disabled.
+适用于部分无法直接双击运行 `.msi` 安装包的 Windows 电脑，通过封装 Windows 官方 `msiexec` 实现正常安装流程。
 
 ---
 
